@@ -16,7 +16,7 @@ namespace Suma
             Console.WriteLine("Ingrese un número Entero: ");
             numero2 = int.Parse(Console.ReadLine());
             resultado = numero1 + numero2;
-            Console.WriteLine("El resultados es: " + resultado);
+            Console.WriteLine("Numero 1 + Numero 2 es igual: " + resultado);
             Console.ReadLine();
         }
     }
